@@ -36,3 +36,11 @@ To complete this project, you will need to produce a slide deck explaining the s
 * A demo of your final product
 * Some perspective on the actual impact your solution may have in the real world
 * Some improvement, and next step ideas to push your project further
+
+
+## Warning !!!
+
+The "data_concatenaited.csv" file which should be in each "99-Data_Clean" folder was not pushed to github because of its too large size (over 850 MB). 
+To obtain this file, simply run the notebook "Data_collection_&_transformation.ipynb" in the folder "01 - Data Collection & Transformation", which will create this csv file "data_concatenaited.csv" in the subfolder "99-Data_Clean ". 
+Then copy this "data_concatenaited.csv" file obtained into each of the "99-Data_Clean" subfolders within the "02 - Time Series ML" and "03 - Dashboard" folders.
+All notebook and python files will then be able to work normally.
