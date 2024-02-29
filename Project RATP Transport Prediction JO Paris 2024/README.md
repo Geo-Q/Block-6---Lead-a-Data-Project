@@ -44,3 +44,9 @@ The "data_concatenaited.csv" file which should be in each "99-Data_Clean" folder
 To obtain this file, simply run the notebook "Data_collection_&_transformation.ipynb" in the folder "01 - Data Collection & Transformation", which will create this csv file "data_concatenaited.csv" in the subfolder "99-Data_Clean ". 
 Then copy this "data_concatenaited.csv" file obtained into each of the "99-Data_Clean" subfolders within the "02 - Time Series ML" and "03 - Dashboard" folders.
 All notebook and python files will then be able to work normally.
+
+
+## Authors
+
+* <a href="https://www.linkedin.com/in/salma-benqassmi-56122676/" target="_blank">Salma BENQASSMI</a>
+* <a href="https://www.linkedin.com/in/geoffrey-quillet/" target="_blank">Geoffrey QUILLET</a>
