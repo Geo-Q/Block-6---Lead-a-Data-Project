@@ -1,0 +1,12 @@
+lieu,Type,geo_point,activité,Infrastructure
+PARC DES PRINCES,Site olympique,"48.841319,2.253076",Football,Existant
+STADE DE FRANCE,Site olympique,"48.924388,2.359871","Athlétisme, Para athlétisme, Rugby",Existant
+GRAND PALAIS,Site olympique,"48.866041,2.312406","Escrime, Escrime fauteuil, Taekwondo, Para taekwondo",Existant
+ARENA INVALIDES,Site olympique,"48.862286,2.313222","Tir à l'arc, Para tir à l'arc, Athlétisme, Cyclisme sur route",Temporaire
+STADE DE LA CONCORDE,Site olympique,"48.865589,2.321205","Basketball 3x3, BMX freestyle, Breaking, Skateboard",Temporaire
+ARENA CHAMP DE MARS,Site olympique,"48.854536,2.300413","Judo, Para judo, Lutte, Rugby fauteuil",Temporaire
+STADE TOUR EIFFEL,Site olympique,"48.857232,2.296084","Volleyball de plage, Cécifoot",Temporaire
+ROLAND-GARROS,Site olympique,"48.84732,2.245501","Tennis, Tennis fauteuil, Boxe",Existant
+ARENA PARIS SUD,Site olympique,"48.832068,2.284126","Volleyball, Boccia, Haltérophilie, Handball, Goalball, Tennis de table, Para tennis de table",Existant
+ARENA LA CHAPELLE,Site olympique,"48.899483,2.361803","Badminton, Para Badminton, Gymnastique rythmique, Para powerlifting",Existant
+ARENA BERCY,Site olympique,"48.838649,2.378496","Basketball, Basket fauteuil, Gymnastique artistique, trampoline",Existant
